@@ -29,7 +29,7 @@ The following technologies were used to build this app:
 - React Query
 - Redux
 
-Deployed Link App:- contact-management-steel-seven.vercel.app 
+Deployed Link App:-https://contact-management-git-master-badals-projects-ea3a13cb.vercel.app
 
 
 
